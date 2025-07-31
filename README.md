@@ -6,7 +6,10 @@ Developed a Java-based GUI application using Java Swing for user interface desig
 
 <img width="694" height="796" alt="image" src="https://github.com/user-attachments/assets/402ba917-7c42-41c9-b6ed-5955a702e53e" />
 
-!
+<img width="694" height="800" alt="image" src="https://github.com/user-attachments/assets/93058011-56c7-4a52-8137-a15642106696" />
+
+<img width="696" height="799" alt="image" src="https://github.com/user-attachments/assets/32dd0366-b7c8-4f20-9449-de41a6f5751f" />
+
 
 
 
