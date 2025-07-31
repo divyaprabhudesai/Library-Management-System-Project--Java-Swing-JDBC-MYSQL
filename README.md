@@ -1,1 +1,6 @@
-# Library-Management-System-Project--Java-Swing-JDBC-MYSQL
+<img width="1039" height="578" alt="image" src="https://github.com/user-attachments/assets/fd7099a3-865c-4bf4-a7a3-41a313277b4f" /><img width="1039" height="578" alt="image" src="https://github.com/user-attachments/assets/d3621d82-4dcd-47a7-9ac4-07944c9b8c0c" /># Library-Management-System-Project--Java-Swing-JDBC-MYSQL
+
+A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
+
+Developed a Java-based GUI application using Java Swing for user interface design, JDBC for database connectivity, and MySQL for data storage. • Key features included book catalog management, user account handling, transaction tracking, fine calculation, and role-based access control. • Leveraged Object-Oriented Programming (OOP) principles to streamline library operations, improving efficiency and reducing manual errors. Implemented advanced search functionality, secure authentication, and automated reporting for enhanced user experience. Designed the system using client-server architecture and conducted rigorous testing to ensure reliability and scalability for enterprise application development.
+
