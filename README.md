@@ -1,17 +1,23 @@
+# Library-Management-System-Project
+
 A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
 
-• Developed a Java-based GUI application using Java Swing for user interface design, JDBC for database connectivity, and MySQL for data storage. 
-• Key features included book catalog management, user account handling, transaction tracking, fine calculation, and role-based access control. 
-• Leveraged Object-Oriented Programming (OOP) principles to streamline library operations, improving efficiency and reducing manual errors. Implemented advanced search functionality, secure authentication, and automated reporting for enhanced user experience. Designed the system using client-server architecture and conducted rigorous testing to ensure reliability and scalability for enterprise application development.
 
-<img width="1039" height="578" alt="image" src="https://github.com/user-attachments/assets/4f93f9cd-83c1-49fc-bd4f-eb14c93ea9e2" />
+![loading](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/31d70921-d5ab-4fd7-907f-61e68e28da49)
 
-<img width="694" height="796" alt="image" src="https://github.com/user-attachments/assets/402ba917-7c42-41c9-b6ed-5955a702e53e" />
+![login](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/7668e6d6-eed4-43e4-8dfa-a54c0b37d359)
 
-<img width="694" height="800" alt="image" src="https://github.com/user-attachments/assets/93058011-56c7-4a52-8137-a15642106696" />
+![home](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/cdc516a9-17fb-4da6-bc1f-27b704360530)
 
-<img width="696" height="799" alt="image" src="https://github.com/user-attachments/assets/32dd0366-b7c8-4f20-9449-de41a6f5751f" />
+![Add Book](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/819581a7-a91e-4650-a50c-04a6eaf7d513)
+
+![Student registration](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/b6b2d0e1-0187-4f50-a662-4c735ba50d33)
+
+![issue](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/d7f240ee-e93f-4a04-b3b8-27dfbb9cf814)
+
+![return](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/8aef7cf9-15e2-4e6d-aa62-b854e8a43fd7)
+
+![logout](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/1b224c1e-2ca2-448e-8f87-220a8662245a)
 
 
-
-
+![Screenshot_20241107-123605_1](https://github.com/user-attachments/assets/c2bc6530-5f94-4aff-9299-d8e705e0e146)
